@@ -1,15 +1,15 @@
 # Hi 👋, I'm Mamidi Kusuma Priya 🌟
 
-### Full Stack Developer 💻 | Problem Solver 🧩
+### Full Stack Developer 💻 
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 B.Tech Computer Science Engineering Student at Vignan's Institute of Information and Technology[cite: 1]
-* 💡 Passionate about problem-solving, competitive programming, and emerging technologies like Artificial Intelligence[cite: 1]
-* ⚡ Strong skills in Data Structures, Algorithms (Java), and full-stack development[cite: 1]
-* 🚀 Hands-on project experience in building scalable web applications[cite: 1]
+* 🎓 B.Tech Computer Science Engineering Student at Vignan's Institute of Information and Technology.
+* 💡 Passionate about problem-solving, competitive programming, and emerging technologies like Artificial Intelligence.
+* ⚡ Strong skills in Data Structures, Algorithms (Java), and full-stack development.
+* 🚀 Hands-on project experience in building scalable web applications.
 
 ---
 
