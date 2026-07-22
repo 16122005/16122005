@@ -16,6 +16,7 @@
 ## 🛠️ Tech Stack
 
 ### 🗣️ Languages
+
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
@@ -42,16 +43,6 @@
 ---
 
 ## 🚀 Featured Projects
-### ♻️ EcoRecyclr QR-Based Recycling Tracker
-* Developed a smart recycling tracking platform using QR code scanning and GPS-based waste verification[cite: 1].
-* Implemented QR validation for recycling bins to ensure secure waste collection tracking and integrated GPS monitoring[cite: 1].
-* Automated activity tracking, contribution logging, and reward management for users[cite: 1].
-* 
-### 🥗 Nutrition Assistant
-* Built a MERN-stack application for personalized nutrition and health monitoring[cite: 1].
-* Implemented RESTful APIs (Node.js/Express) and a dynamic React frontend for data visualization[cite: 1].
-* Deployed backend and frontend services on Render for real-time accessibility[cite: 1].
-
 
 ### 🤖 AI Study Assistant
 * Full-stack AI-powered study companion with chat history, interactive flashcards, and a Pomodoro timer.
@@ -59,10 +50,25 @@
 * 🔗 Live Demo: [https://ai-study-assistant-alpha-two.vercel.app](https://ai-study-assistant-alpha-two.vercel.app)
 * 🐙 GitHub: [https://github.com/16122005/ai-study-assistant](https://github.com/16122005/ai-study-assistant)
 
+### 🥗 Nutrition Assistant
+* Built a MERN-stack application for personalized nutrition and health monitoring[cite: 1].
+* Implemented RESTful APIs (Node.js/Express) and a dynamic React frontend for data visualization[cite: 1].
+* Deployed backend and frontend services on Render for real-time accessibility[cite: 1].
+* 🔗 Live Demo: [https://nutrition-assistant-1.onrender.com/](https://nutrition-assistant-1.onrender.com/)
+* 🐙 GitHub: [https://github.com/16122005/Nutrition-Assistant](https://github.com/16122005/Nutrition-Assistant)
+
+### ♻️ EcoRecyclr QR-Based Recycling Tracker
+* Developed a smart recycling tracking platform using QR code scanning and GPS-based waste verification[cite: 1].
+* Implemented QR validation for recycling bins to ensure secure waste collection tracking and integrated GPS monitoring[cite: 1].
+* Automated activity tracking, contribution logging, and reward management for users[cite: 1].
+* 🔗 Live Demo: [https://eco-flax.vercel.app](https://eco-flax.vercel.app)
+* 🐙 GitHub: [https://github.com/16122005/Ecorecylr](https://github.com/16122005/Ecorecylr)
 
 ### 📄 AI Resume Screening System
 * Built an AI-powered resume screening platform for automated candidate evaluation and job-role matching[cite: 1].
 * Implemented resume parsing, skill extraction, and candidate ranking to improve shortlisting efficiency[cite: 1].
+* 🔗 Live Demo: [https://resume-screening-beige.vercel.app/](https://resume-screening-beige.vercel.app/)
+* 🐙 GitHub: [https://github.com/16122005/ResumeScreening](https://github.com/16122005/ResumeScreening)
 
 ---
 
@@ -84,7 +90,6 @@ Feel free to reach out to me for collaborations, questions, or just a friendly c
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/16122005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamidi-kusuma-priya-039429358)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamidikusumapriya@gmail.com)
-
 
 ---
 
