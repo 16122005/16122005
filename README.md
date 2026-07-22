@@ -1,6 +1,6 @@
-# Hi 👋, I'm Mamidi Kusuma Priya
+# Hi 👋, I'm Mamidi Kusuma Priya 🌟
 
-### Full Stack Developer | Problem Solver
+### Full Stack Developer 💻 | Problem Solver 🧩
 
 ---
 
@@ -16,16 +16,16 @@
 ## 🛠️ Tech Stack
 
 ### 🗣️ Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 
 ### 🎨 Frontend
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### ⚙️ Backend
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
@@ -42,6 +42,16 @@
 ---
 
 ## 🚀 Featured Projects
+### ♻️ EcoRecyclr QR-Based Recycling Tracker
+* Developed a smart recycling tracking platform using QR code scanning and GPS-based waste verification[cite: 1].
+* Implemented QR validation for recycling bins to ensure secure waste collection tracking and integrated GPS monitoring[cite: 1].
+* Automated activity tracking, contribution logging, and reward management for users[cite: 1].
+* 
+### 🥗 Nutrition Assistant
+* Built a MERN-stack application for personalized nutrition and health monitoring[cite: 1].
+* Implemented RESTful APIs (Node.js/Express) and a dynamic React frontend for data visualization[cite: 1].
+* Deployed backend and frontend services on Render for real-time accessibility[cite: 1].
+
 
 ### 🤖 AI Study Assistant
 * Full-stack AI-powered study companion with chat history, interactive flashcards, and a Pomodoro timer.
@@ -49,17 +59,8 @@
 * 🔗 Live Demo: [https://ai-study-assistant-alpha-two.vercel.app](https://ai-study-assistant-alpha-two.vercel.app)
 * 🐙 GitHub: [https://github.com/16122005/ai-study-assistant](https://github.com/16122005/ai-study-assistant)
 
-### 🥗 Nutrition Assistant[cite: 1]
-* Built a MERN-stack application for personalized nutrition and health monitoring[cite: 1].
-* Implemented RESTful APIs (Node.js/Express) and a dynamic React frontend for data visualization[cite: 1].
-* Deployed backend and frontend services on Render for real-time accessibility[cite: 1].
 
-### ♻️ EcoRecyclr QR-Based Recycling Tracker[cite: 1]
-* Developed a smart recycling tracking platform using QR code scanning and GPS-based waste verification[cite: 1].
-* Implemented QR validation for recycling bins to ensure secure waste collection tracking and integrated GPS monitoring[cite: 1].
-* Automated activity tracking, contribution logging, and reward management for users[cite: 1].
-
-### 📄 AI Resume Screening System[cite: 1]
+### 📄 AI Resume Screening System
 * Built an AI-powered resume screening platform for automated candidate evaluation and job-role matching[cite: 1].
 * Implemented resume parsing, skill extraction, and candidate ranking to improve shortlisting efficiency[cite: 1].
 
@@ -76,12 +77,15 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Contact Me & Connect
+
+Feel free to reach out to me for collaborations, questions, or just a friendly chat! 😊
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/16122005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamidi-kusuma-priya-039429358)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamidikusumapriya@gmail.com)
 
+
 ---
 
-### ⭐ Code • Learn • Build • Repeat ⭐
+### ⭐ Code • Learn • Build  ⭐
